@@ -1,0 +1,22 @@
+{
+  "name": "netology-homework_nodejs_command-line-args",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiHami1024/netology-homework_nodejs_command-line-args.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiHami1024/netology-homework_nodejs_command-line-args/issues"
+  },
+  "homepage": "https://github.com/RamiHami1024/netology-homework_nodejs_command-line-args#readme",
+  "dependencies": {
+    "yargs": "^17.5.1"
+  }
+}
