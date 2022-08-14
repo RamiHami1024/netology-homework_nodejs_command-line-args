@@ -3,8 +3,6 @@
 // Task #2
 
 const readline = require('readline')
-const { stdin: input, stdout: output } = require('process');
-const { rmSync } = require('fs');
 const rl = readline.createInterface({ input, output });
 const number = Math.floor(Math.random() * 100);
 let guess = 0;
